@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+---
+
+<div align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
+
+---
+
 <!--
 **MHASBIANUR/MHASBIANUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
