@@ -1,8 +1,11 @@
-## Hi there 👋 I'm M. Hasbianur
+<h2 align="center">Hi there 👋 I'm M. Hasbianur</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b37d-2bba1234e9a0.png" alt="Developer Illustration" width="400" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b37d-2bba1234e9a0.png" 
+       alt="Developer Illustration" 
+       width="500"
+       style="border-radius: 15px; margin-top: 20px;" />
+</p>
 
 ---
 
@@ -14,41 +17,46 @@
 ---
 
 ### 🛠️ Tech Stack
-<div align="center">
+<p align="center">
   
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHASBIANUR&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHASBIANUR&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHASBIANUR&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHASBIANUR&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-hasbianur16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hasbianur16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel)](https://mhasbianur.vercel.app)
-
-</div>
+<p align="center">
+  <a href="mailto:hasbianur16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hasbianur16@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://mhasbianur.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-💙 *Thanks for visiting my GitHub profile!*
+<p align="center">
+  ✨ <i>"Code is like humor. When you have to explain it, it’s bad."</i>  
+  <br>
+  💙 <b>Thanks for visiting my GitHub profile!</b>
+</p>
