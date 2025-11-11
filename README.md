@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">M. Hasbianur</span></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/programmer.gif" 
-       alt="Coding Animation" 
-       width="500" 
-       style="border-radius: 12px; box-shadow: 0 0 15px rgba(80, 220, 255, 0.3);" />
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" 
+       alt="Developer Animation" 
+       width="480" 
+       style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.25);" />
 </p>
+
 
 
 
