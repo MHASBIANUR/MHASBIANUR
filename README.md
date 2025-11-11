@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">M. Hasbianur</span></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif" 
-       alt="Developer Illustration" 
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+       alt="Coding Illustration" 
        width="480" 
-       style="border-radius: 10px; margin-top: 10px;" />
+       style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
+
 
 ---
 
