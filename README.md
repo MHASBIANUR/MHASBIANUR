@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">M. Hasbianur</span></h1>
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/DenverCoder1/blob/main/assets/animation_500_kxa883sd.gif" 
-       alt="Coding Animation" 
-       width="500" 
-       style="border-radius: 12px; box-shadow: 0 0 15px rgba(80, 220, 255, 0.3);" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+       alt="Minimalist Developer" 
+       width="460" 
+       style="border-radius: 15px; box-shadow: 0 2px 20px rgba(0,0,0,0.25);" />
 </p>
+
 
 
 
