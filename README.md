@@ -1,9 +1,10 @@
 <h2 align="center">Hi there 👋 I'm M. Hasbianur</h2>
 
 ---
-<p align="center">
-  <img <img src="https://user-images.githubusercontent.com/123456789/abcdef123456789.png" width="500" />
-</p>
+
+<div align="center">
+    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+</div>
 
 ---
 
