@@ -34,29 +34,32 @@ I enjoy turning ideas into real, impactful digital products.
 
 <p align="center">
 
-<!-- Frontend -->
+<!-- Row 1 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+<br/>
+
+<!-- Row 2 -->
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-6cc24a?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 
-<!-- Database -->
+<br/>
+
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma%20ORM-0c344b?style=flat-square&logo=prisma&logoColor=white" />
-
-<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-f1502f?style=flat-square&logo=git&logoColor=white" />
 
 </p>
 
 ---
+
 
 ## 📊 GitHub Analytics
 
