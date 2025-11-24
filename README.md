@@ -14,19 +14,19 @@
 <h3 align="center">💻 Fullstack Developer | 🚀 Passionate Learner | 🌏 Indonesia</h3>
 
 <p align="center">
-Saya membangun aplikasi web modern dengan fokus pada pengalaman pengguna, performa, dan clean code.  
-Saya senang mengubah ide menjadi produk digital yang nyata dan bermanfaat.
+I build modern web applications with a strong focus on user experience, performance, and clean, maintainable code.  
+I enjoy turning ideas into real, impactful digital products.
 </p>
 
 ---
 
 ## 🧑‍🚀 About Me
 
-- ✨ Berfokus pada pembuatan aplikasi **web modern dan scalable**  
-- ⚙️ Menguasai **frontend + backend** menggunakan teknologi JavaScript/TypeScript  
-- 📌 Tertarik pada **AI integration, database optimization, dan UI/UX modern**  
-- 🌱 Saat ini fokus meningkatkan kemampuan API development, authentication systems, dan database management
-- 🎯 Selalu mengutamakan kualitas kode, performa aplikasi, dan pengalaman pengguna (UX)
+- ✨ Focused on creating **modern, scalable web applications**  
+- ⚙️ Skilled in **frontend + backend** development with JavaScript/TypeScript  
+- 📌 Interested in **AI integration, database optimization, and modern UI/UX development**  
+- 🌱 Currently strengthening skills in **API development, authentication systems, and database management**  
+- 🎯 Committed to delivering **high-quality code, strong performance, and great user experience**
 
 ---
 
