@@ -20,6 +20,22 @@ I enjoy turning ideas into real, impactful digital products.
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:hasbianur16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hasbianur16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-hasbianur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web-personal-eosin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧑‍🚀 About Me
 
 - ✨ Focused on creating **modern, scalable web applications**  
@@ -60,7 +76,6 @@ I enjoy turning ideas into real, impactful digital products.
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -68,23 +83,6 @@ I enjoy turning ideas into real, impactful digital products.
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MHASBIANUR&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHASBIANUR&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:hasbianur16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hasbianur16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-hasbianur/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://web-personal-eosin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 ---
