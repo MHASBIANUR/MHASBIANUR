@@ -79,10 +79,10 @@ I enjoy turning ideas into real, impactful digital products.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MHASBIANUR&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHASBIANUR&theme=github" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MHASBIANUR&theme=github&utcOffset=8" height="150" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MHASBIANUR&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHASBIANUR&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHASBIANUR&theme=github" />
 </p>
 
 ---
