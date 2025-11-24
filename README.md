@@ -61,13 +61,14 @@ I enjoy turning ideas into real, impactful digital products.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHASBIANUR&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=MHASBIANUR&theme=tokyonight&hide_border=true" height="150" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MHASBIANUR&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHASBIANUR&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
+
 
 ## 🌐 Connect with Me
 
