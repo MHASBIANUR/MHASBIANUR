@@ -20,6 +20,16 @@ I enjoy turning ideas into real, impactful digital products.
 
 ---
 
+## 🧑‍🚀 About Me
+
+- ✨ Focused on creating **modern, scalable web applications**  
+- ⚙️ Skilled in **frontend + backend** development with JavaScript/TypeScript  
+- 📌 Interested in **AI integration, database optimization, and modern UI/UX development**  
+- 🌱 Currently strengthening skills in **API development, authentication systems, and database management**  
+- 🎯 Committed to delivering **high-quality code, strong performance, and great user experience**
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -33,16 +43,6 @@ I enjoy turning ideas into real, impactful digital products.
     <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🧑‍🚀 About Me
-
-- ✨ Focused on creating **modern, scalable web applications**  
-- ⚙️ Skilled in **frontend + backend** development with JavaScript/TypeScript  
-- 📌 Interested in **AI integration, database optimization, and modern UI/UX development**  
-- 🌱 Currently strengthening skills in **API development, authentication systems, and database management**  
-- 🎯 Committed to delivering **high-quality code, strong performance, and great user experience**
 
 ---
 
