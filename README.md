@@ -42,7 +42,7 @@ I love turning ideas into tangible, impactful digital products.
 
 <!-- ResuMatch GIF -->
 <img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/resumatch-demo.gif" 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif" 
   alt="ResuMatch Demo" 
   width="450" 
   style="border-radius: 12px; margin: 10px;"
