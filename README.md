@@ -26,11 +26,12 @@ I love turning ideas into tangible, impactful digital products.
 
 <!-- Taskora GIF -->
 <img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/taskora-demo.gif" 
-  alt="Taskora Demo" 
-  width="450" 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
+  alt="Taskora Demo"
+  width="450"
   style="border-radius: 12px; margin: 10px;"
 />
+
 
 <!-- MediMine GIF -->
 <img 
