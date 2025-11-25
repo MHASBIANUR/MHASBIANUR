@@ -14,8 +14,8 @@
 <h3 align="center">💻 Fullstack Developer | 🚀 Passionate Learner | 🌏 Indonesia</h3>
 
 <p align="center">
-I build modern web applications with a strong focus on user experience, performance, and clean, maintainable code.  
-I enjoy turning ideas into real, impactful digital products.
+I build modern web applications with a focus on user experience, performance, and maintainable code.
+I love turning ideas into tangible, impactful digital products.
 </p>
 
 ---
