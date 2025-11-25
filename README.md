@@ -77,9 +77,9 @@ I enjoy turning ideas into real, impactful digital products.
 
 | Project | Link Deployment | Repository |
 |--------|------------------|------------|
-| **Taskora – AI To-Do App** | https://taskora.vercel.app | https://github.com/MHASBIANUR/taskora |
-| **MediMine – AI Healthcare Assistant** | https://medimine.vercel.app | https://github.com/MHASBIANUR/medimine |
-| **ResuMatch – AI Resume Matcher** | https://resumatch.vercel.app | https://github.com/MHASBIANUR/resumatch |
+| **Taskora – AI To-Do App** | https://taskora-phi.vercel.app/ | https://github.com/MHASBIANUR/taskora |
+| **MediMine – AI Healthcare Assistant** | https://medimine-frontend.vercel.app/ | https://github.com/MHASBIANUR/medimine |
+| **ResuMatch – AI Resume Matcher** | https://resumatch-ivory.vercel.app/ | https://github.com/MHASBIANUR/resumatch |
 
 ---
 
