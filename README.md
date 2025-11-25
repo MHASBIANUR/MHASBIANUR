@@ -54,12 +54,9 @@ I enjoy turning ideas into real, impactful digital products.
 
 ## 🌟 Highlights
 
-- 🚀 Built **3 fullstack applications** with **AI-powered features**  
-- 🧠 Experienced integrating **OpenAI, Gemini, and custom AI assistants**  
-- 🗄️ Strong experience with **Prisma ORM + PostgreSQL**  
-- 🔐 Built systems with **Supabase Auth, JWT, and secure API development**  
-- 🎨 Skilled in **Next.js + Tailwind CSS** for modern UI/UX  
-- ⏱️ Focused on clean architecture, performance, and scalability  
+- 🚀 Built 3 modern fullstack apps with AI integration  
+- 🧩 Experienced in Next.js, Prisma ORM, and Supabase  
+- 🎨 Focused on clean UI/UX, performance, and maintainable code  
 
 ---
 
