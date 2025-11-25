@@ -66,7 +66,7 @@ I enjoy turning ideas into real, impactful digital products.
 - ⚙️ Fullstack Developer (Frontend + Backend)  
 - 📌 Interested in **AI integration, DB optimization, UI/UX engineering**  
 - 🌱 Deepening expertise in **API development & authentication systems**  
-- 🎯 Writing clean, maintainable, production-ready code  
+- 🎯 Maintainable, production-ready code  
 
 ---
 
