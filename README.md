@@ -20,13 +20,66 @@ I enjoy turning ideas into real, impactful digital products.
 
 ---
 
+## 🎬 Project Demo (GIF)
+
+<p align="center">
+
+<!-- Taskora GIF -->
+<img 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/taskora-demo.gif" 
+  alt="Taskora Demo" 
+  width="450" 
+  style="border-radius: 12px; margin: 10px;"
+/>
+
+<!-- MediMine GIF -->
+<img 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
+  alt="MediMine Demo" 
+  width="450" 
+  style="border-radius: 12px; margin: 10px;"
+/>
+
+<!-- ResuMatch GIF -->
+<img 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/resumatch-demo.gif" 
+  alt="ResuMatch Demo" 
+  width="450" 
+  style="border-radius: 12px; margin: 10px;"
+/>
+
+</p>
+
+---
+
+## 🌟 Highlights
+
+- 🚀 Built **3 fullstack applications** with **AI-powered features**  
+- 🧠 Experienced integrating **OpenAI, Gemini, and custom AI assistants**  
+- 🗄️ Strong experience with **Prisma ORM + PostgreSQL**  
+- 🔐 Built systems with **Supabase Auth, JWT, and secure API development**  
+- 🎨 Skilled in **Next.js + Tailwind CSS** for modern UI/UX  
+- ⏱️ Focused on clean architecture, performance, and scalability  
+
+---
+
 ## 🧑‍🚀 About Me
 
-- ✨ Focused on creating **modern, scalable web applications**  
-- ⚙️ Skilled in **frontend + backend** development with JavaScript/TypeScript  
-- 📌 Interested in **AI integration, database optimization, and modern UI/UX development**  
-- 🌱 Currently strengthening skills in **API development, authentication systems, and database management**  
-- 🎯 Committed to delivering **high-quality code, strong performance, and great user experience**
+- ✨ Building **scalable, modern web apps**  
+- ⚙️ Fullstack Developer (Frontend + Backend)  
+- 📌 Interested in **AI integration, DB optimization, UI/UX engineering**  
+- 🌱 Deepening expertise in **API development & authentication systems**  
+- 🎯 Writing clean, maintainable, production-ready code  
+
+---
+
+## 🔗 Project Deployments
+
+| Project | Link Deployment | Repository |
+|--------|------------------|------------|
+| **Taskora – AI To-Do App** | https://taskora.vercel.app | https://github.com/MHASBIANUR/taskora |
+| **MediMine – AI Healthcare Assistant** | https://medimine.vercel.app | https://github.com/MHASBIANUR/medimine |
+| **ResuMatch – AI Resume Matcher** | https://resumatch.vercel.app | https://github.com/MHASBIANUR/resumatch |
 
 ---
 
