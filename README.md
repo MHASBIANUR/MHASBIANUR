@@ -32,14 +32,6 @@ I love turning ideas into tangible, impactful digital products.
   style="border-radius: 12px; margin: 10px;"
 />
 
-<!-- MediMine GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
-  alt="MediMine Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
-
 <!-- ResuMatch GIF -->
 <img 
   src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif" 
@@ -48,6 +40,13 @@ I love turning ideas into tangible, impactful digital products.
   style="border-radius: 12px; margin: 10px;"
 />
 
+<!-- MediMine GIF -->
+<img 
+  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
+  alt="MediMine Demo" 
+  width="450" 
+  style="border-radius: 12px; margin: 10px;"
+/>
 </p>
 
 ---
