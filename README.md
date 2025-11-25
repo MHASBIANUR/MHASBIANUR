@@ -24,32 +24,39 @@ I love turning ideas into tangible, impactful digital products.
 
 <p align="center">
 
-<!-- Taskora GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
-  alt="Taskora Demo"
-  width="450"
-  style="border-radius: 12px; margin: 10px;"
-/>
+  <!-- Row 1 -->
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
+      alt="Taskora Demo"
+      width="450"
+      style="border-radius: 12px; margin: 10px;"
+    />
+  </div>
 
-<!-- ResuMatch GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif" 
-  alt="ResuMatch Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif"
+      alt="ResuMatch Demo"
+      width="450"
+      style="border-radius: 12px; margin: 10px;"
+    />
+  </div>
 
-<!-- MediMine GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
-  alt="MediMine Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
+  <!-- Row 2 (MediMine) -->
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img 
+      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif"
+      alt="MediMine Demo"
+      width="450"
+      style="border-radius: 12px; margin: 10px;"
+    />
+  </div>
+
 </p>
 
 ---
+
 
 ## 🌟 Highlights
 
