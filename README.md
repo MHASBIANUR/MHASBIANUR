@@ -22,38 +22,40 @@ I love turning ideas into tangible, impactful digital products.
 
 ## 🎬 Project Demo (GIF)
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
+        alt="Taskora Demo"
+        width="450"
+        style="border-radius: 12px;"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif"
+        alt="ResuMatch Demo"
+        width="450"
+        style="border-radius: 12px;"
+      />
+    </td>
+  </tr>
 
-  <!-- Row 1 -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img 
-      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
-      alt="Taskora Demo"
-      width="450"
-      style="border-radius: 12px; margin: 10px;"
-    />
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img 
-      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif"
-      alt="ResuMatch Demo"
-      width="450"
-      style="border-radius: 12px; margin: 10px;"
-    />
-  </div>
-
-  <!-- Row 2 (MediMine) -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img 
-      src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif"
-      alt="MediMine Demo"
-      width="450"
-      style="border-radius: 12px; margin: 10px;"
-    />
-  </div>
-
-</p>
+  <tr>
+    <td align="center">
+      <img 
+        src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif"
+        alt="MediMine Demo"
+        width="450"
+        style="border-radius: 12px;"
+      />
+    </td>
+    <td align="center">
+      <!-- kosongkan atau isi GIF ke-4 nanti -->
+    </td>
+  </tr>
+</table>
 
 ---
 
