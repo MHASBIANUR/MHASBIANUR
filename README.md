@@ -28,7 +28,7 @@ I love turning ideas into tangible, impactful digital products.
       <img 
         src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/gifttaskora-ezgif.com-optimize.gif"
         alt="Taskora Demo"
-        width="450"
+        width="350"
         style="border-radius: 12px;"
       />
     </td>
@@ -36,7 +36,7 @@ I love turning ideas into tangible, impactful digital products.
       <img 
         src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftResumatch-ezgif.com-optimize.gif"
         alt="ResuMatch Demo"
-        width="450"
+        width="350"
         style="border-radius: 12px;"
       />
     </td>
@@ -47,12 +47,12 @@ I love turning ideas into tangible, impactful digital products.
       <img 
         src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif"
         alt="MediMine Demo"
-        width="450"
+        width="350"
         style="border-radius: 12px;"
       />
     </td>
     <td align="center">
-      <!-- kosongkan atau isi GIF ke-4 nanti -->
+      <!-- Kosong atau GIF ke-4 -->
     </td>
   </tr>
 </table>
