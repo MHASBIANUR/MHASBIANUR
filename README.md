@@ -20,38 +20,6 @@ I love turning ideas into tangible, impactful digital products.
 
 ---
 
-## 🎬 Project Demo (GIF)
-
-<p align="center">
-
-<!-- Taskora GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/taskora-demo.gif" 
-  alt="Taskora Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
-
-<!-- MediMine GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
-  alt="MediMine Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
-
-<!-- ResuMatch GIF -->
-<img 
-  src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/resumatch-demo.gif" 
-  alt="ResuMatch Demo" 
-  width="450" 
-  style="border-radius: 12px; margin: 10px;"
-/>
-
-</p>
-
----
-
 ## 🌟 Highlights
 
 - 🚀 Built 3 modern fullstack apps with AI integration  
