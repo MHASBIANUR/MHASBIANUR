@@ -32,7 +32,6 @@ I love turning ideas into tangible, impactful digital products.
   style="border-radius: 12px; margin: 10px;"
 />
 
-
 <!-- MediMine GIF -->
 <img 
   src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif" 
