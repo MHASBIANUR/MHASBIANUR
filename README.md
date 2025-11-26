@@ -45,7 +45,7 @@ I love turning ideas into tangible, impactful digital products.
   <tr>
     <td align="center">
       <img 
-        src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/medimine-demo.gif"
+        src="https://raw.githubusercontent.com/MHASBIANUR/MHASBIANUR/main/giftMedimine-ezgif.com.gif"
         alt="MediMine Demo"
         width="350"
         style="border-radius: 12px;"
